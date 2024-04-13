@@ -1,6 +1,6 @@
 package utils;
 
-import ch1.topic5.UFWeightQuickUnion;
+import exercise.ch1.topic5.UFWeightQuickUnion;
 
 public class WeightUFSearch {
     private final UFWeightQuickUnion uf;

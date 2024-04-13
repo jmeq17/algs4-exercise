@@ -1,6 +1,6 @@
 package utils;
 
-import ch3.topic5.HashST;
+import exercise.ch3.topic5.HashST;
 
 public class SparseVector {
     private final HashST<Integer, Double> st;

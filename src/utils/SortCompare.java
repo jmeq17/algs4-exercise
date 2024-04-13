@@ -1,13 +1,13 @@
 package utils;
 
-import ch2.classForExercise.InsertionX;
-import ch2.topic1.E20124InsertionWithSentinel;
-import ch2.topic1.E20125InsertionsSortWithoutExchanges;
-import ch2.topic2.*;
-import ch2.topic3.E20311;
-import ch2.topic3.E20317Sentinels;
-import ch2.topic3.E20319MedianOfFive;
-import ch2.topic3.E20322FastThreePartition;
+import exercise.ch2.classForExercise.InsertionX;
+import exercise.ch2.topic1.E20124InsertionWithSentinel;
+import exercise.ch2.topic1.E20125InsertionsSortWithoutExchanges;
+import exercise.ch2.topic2.*;
+import exercise.ch2.topic3.E20311;
+import exercise.ch2.topic3.E20317Sentinels;
+import exercise.ch2.topic3.E20319MedianOfFive;
+import exercise.ch2.topic3.E20322FastThreePartition;
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.Stopwatch;
