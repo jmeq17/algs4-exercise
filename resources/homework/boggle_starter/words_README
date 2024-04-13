@@ -1,0 +1,21 @@
+These wordlists came from the National Puzzlers' League, which I
+learned about via Paul Kube of UCSD. You can find details about these
+lists and others from http://www.puzzlers.org/secure/wordlists/dictinfo.html
+
+
+The two that seemed most useful for a Boggle game I put here are the
+Official Scrabble Player's Dictionary (~79,000 words) and the "Enable"
+word list (~172,000).  Both have a large variety of fairly common
+words, including plurals and tensed forms. The OSPD only has words of
+up to 8 letters. The Enable list is a superset of OSPD that adds many
+longer words.
+
+Given the memory capabilities of today's machines, it is feasible to
+do lookups via binary search across arrays of strings.  If you're
+interested in the hairy compact directed-acyclic-word-graph
+representation we use at Stanford, drop me an email and I can tell you
+more about it.
+
+
+
+
