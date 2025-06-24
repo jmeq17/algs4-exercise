@@ -1,0 +1,110 @@
+# 操作系统生成的垃圾文件
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+Icon?
+__MACOSX/
+
+# 日志文件
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 临时文件
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.old
+
+# 编译产物
+/dist
+/build
+/out
+/target
+/bin
+/obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+*.o
+*.a
+
+# 依赖包
+/node_modules
+/.pnp
+.pnp.js
+/vendor
+/.gradle
+/.mvn
+*.iml
+
+# IDE/编辑器配置
+.idea/
+/.vscode/
+/*.code-workspace
+*.sublime-workspace
+*.sublime-project
+
+# 环境配置
+.env
+.env.*.local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 包管理锁文件（根据需要保留或忽略）
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# 版本控制系统自身文件
+*.orig
+
+# 压缩包
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# 数据库文件
+*.sqlite
+*.sqlite3
+*.db
+
+# 覆盖率报告
+/coverage
+*.lcov
+
+# Python
+__pycache__/
+/*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+/.eggs
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Go
+*.exe
+*.test
+*.out
+
+# Rust
+/target
+**/*.rs.bk
+
+# 其他根据项目补充
